@@ -2,7 +2,7 @@
 title: Keisuke Sato's Webpage
 description: 佐藤啓輔のウェブページです
 github:
-  url_home: https://keisuke-sato-164.github.io
+  url_index: https://keisuke-sato-164.github.io
   url_profile: https://keisuke-sato-164.github.io/profile
   url_research: https://keisuke-sato-164.github.io/research
 theme: jekyll-theme-cayman
