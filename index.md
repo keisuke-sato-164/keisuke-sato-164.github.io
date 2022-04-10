@@ -1,3 +1,1 @@
-
-# This is Index
-佐藤 啓輔
+# 佐藤 啓輔（Keisuke Sato）
